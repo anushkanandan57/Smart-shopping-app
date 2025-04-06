@@ -1,2 +1,3 @@
 # Smart-shopping-app
-Smart Basket is an online grocery store application built with Flask and Flask-SQLAlchemy. Users can register, browse products by category, add items to their shopping cart, and proceed to checkout. Admins can manage categories, products, and view sales statistics. Contribute to the project or explore the live demo here.
+Smart Basket is an online grocery store application that allows users to browse, search for products, add them to their shopping cart, and proceed to checkout. Admins can manage product categories and details, view sales statistics, and perform other administrative tasks.
+
